@@ -1,0 +1,15 @@
+header {
+    padding-top: 20px;
+}
+
+.sortable {
+    cursor: pointer;
+}
+
+.btn-sm {
+    padding: .1rem .5rem;
+    font-size: .7rem;
+    line-height: 1.5;
+}
+
+
